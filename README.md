@@ -4,7 +4,7 @@ Building a screenless smart watch with accurate health detection. I would love f
 
 ### Tools
 - FreeCAD
-- 
+- KiCAD
 
 ### Hardware Plan
 
@@ -21,3 +21,6 @@ Sensors
 Remaining Prototype Parts
 - Bluetooth
 - Vibration
+
+Final Product
+- Use "advanced nanoguard" spray to waterproof the circuit board.
