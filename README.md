@@ -1,6 +1,8 @@
 ### General Plan
 Building a screenless smart watch with accurate health detection. I would love for the open source community to help develop the data algorithms to improve sleep and excercize monitoring once developed.
 
+I plan to make it have the option between being screenless and e-ink so it has a long battery. It will not have notifications or anything non health/time related (except maybe a map).
+
 
 ### Tools
 - FreeCAD
