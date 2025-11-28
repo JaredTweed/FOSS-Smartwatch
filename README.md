@@ -10,11 +10,12 @@ I plan to make it have the option between being screenless and e-ink so it has a
 ### Hardware Plan
 
 Sensors
-- PPG Sensor (e.g., MAX30102). Must include HR, HRV, and Sp0<sub>2</sub>. 
+- PPG Sensor (e.g., MAX30102). Must include HR, HRV, and Sp0<sub>2</sub>.
+- ECG capability (this is heart related info).
 - Skin Temperature Sensor.
 - 6-axis IMU (i.e., 3-axis accelerometer, 3-axis gryo). This measures motion.
 - Barometer
-- UV Sensor (detects circadian rythm, outdoor activity).
+- UV & Ambient Light Sensor (detects circadian rythm, outdoor activity).
 - Bio-impedance Sensor
 
 Remaining Prototype Parts
