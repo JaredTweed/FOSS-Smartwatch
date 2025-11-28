@@ -1,3 +1,7 @@
+### General Plan
+Building a screenless smart watch with accurate health detection. I would love for the open source community to help develop the data algorithms to improve sleep and excercize monitoring once developed.
+
+
 ### Tools
 - FreeCAD
 - 
