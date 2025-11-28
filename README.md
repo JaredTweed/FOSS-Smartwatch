@@ -11,13 +11,11 @@ I plan to make it have the option between being screenless and e-ink so it has a
 
 Sensors
 - PPG Sensor (e.g., MAX30102). Must include HR, HRV, and Sp0<sub>2</sub>. 
-- Temperature Sensor.
-- Motion
-  - accelerometer,
-  - gryo,
-  - IMU
+- Skin Temperature Sensor.
+- 6-axis IMU (i.e., 3-axis accelerometer, 3-axis gryo). This measures motion.
 - Barometer
-- UV Sensor (detects circadian rythem and outdoor activity).
+- UV Sensor (detects circadian rythm, outdoor activity).
+- Bio-impedance Sensor
 
 Remaining Prototype Parts
 - Bluetooth
