@@ -25,5 +25,9 @@ Remaining Prototype Parts
 - A large battery pack will be chargable via usb-c, and this pack should slide onto the band so you never have to take the band off.
 - GPS (maybe)
 
+Actual Parts Used
+- nRF52840 (This is the lowest power MCU w/ bluetooth).
+- 
+
 Final Product
 - Use "advanced nanoguard" spray to waterproof the circuit board.
